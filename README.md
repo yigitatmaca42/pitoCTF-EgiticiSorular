@@ -1,1 +1,1 @@
-# pitoCTF-EgiticiSorullar
+# pitoCTF-EgiticiSorular
